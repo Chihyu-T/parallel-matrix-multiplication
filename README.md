@@ -42,8 +42,7 @@ Thread 2 → Row 2, 6, 10, ...
 - Dynamic Work Assignment
 - Race Condition
 - Mutex / Synchronization
-- Performance Measurement
 
 ## Tech Stack
 
-C / POSIX Threads / Linux
+C / POSIX Threads
